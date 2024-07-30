@@ -8,3 +8,5 @@ need to live to reduce your weight
 so just write how much you weigh and how much you want to weigh and
 good luck with changing into a mole-person soon.
 No data is saved.
+
+Earth model based on: https://doi.org/10.1016/0031-9201(81)90046-7
